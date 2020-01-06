@@ -16,4 +16,8 @@ public class Test01 {
 	public static int convert(String str){
 		return Integer.parseInt(str);
 	}
+	
+	public static  void test(){
+		System.out.println("test");
+	}
 }
