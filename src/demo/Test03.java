@@ -10,7 +10,6 @@ public class Test03 {
 		System.out.println("hello world!");
 		test();
 		System.out.println("who are you");
-		System.out.println("123123");
 
 	}
 
