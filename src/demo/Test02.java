@@ -11,6 +11,8 @@ public class Test02 {
 		
 
 		System.out.println("are you ok?");
+		
+		System.out.println("111111");
 
 	}
 
