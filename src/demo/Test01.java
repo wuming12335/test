@@ -7,6 +7,8 @@ public class Test01 {
 		
 		System.out.println("a+b="+add(1, 2));
 		
+		System.out.println("11111111111111111");
+		
 	}
 	
 	public static int add(int a, int b){
