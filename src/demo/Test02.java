@@ -10,6 +10,7 @@ public class Test02 {
 		System.out.println("a-b="+sub(2, 1));
 		
 
+		System.out.println("11111qqqqqqqqqqqqqqq");
 		System.out.println("are you ok?");
 		
 		System.out.println("111111");
